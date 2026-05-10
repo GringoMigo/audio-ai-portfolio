@@ -1,0 +1,11 @@
+*.wav
+*.mp3
+*.aiff
+*.flac
+*.m4a
+__pycache__/
+.env
+.DS_Store
+venv/
+*.pt
+*.bin
